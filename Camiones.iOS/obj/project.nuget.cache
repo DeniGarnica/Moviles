@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "74W01DGKiGwioML1WyiH3xzX0IQiJToI2YIxkBBm0L+5SMLQkV0rz5MLNJsxOYNyrPD+6A8Q1vSZGcOLzVrUQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denis\\source\\repos\\Camiones\\Camiones.iOS\\Camiones.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
